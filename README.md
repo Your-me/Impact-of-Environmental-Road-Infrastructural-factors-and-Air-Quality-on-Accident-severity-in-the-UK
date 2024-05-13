@@ -3,7 +3,7 @@ Triangulation of Data Source from Road Safety Data and AURN Air Quality Data.
 
 # GUIDE ON HOW TO USE THE STEP BY STEP GUIDE
 
-Load all the required modules as stated in the first cell, Any other module needed will loaded along the way, although it is not the standard practice.
+Load all the required modules as stated in the first cell, Any other module needed will be loaded along the way, although it is not the standard practice.
 
 ## Dataset for this work can be found on 
 
