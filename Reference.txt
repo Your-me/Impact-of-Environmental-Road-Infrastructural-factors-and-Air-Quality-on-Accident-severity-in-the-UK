@@ -1,0 +1,141 @@
+References
+Abd Razak, M. Z., Mohd Fauzi, S. S., JM Gining, R. A. & Jamaluddin, M. N. F. (2019) Data Visualisation of Vehicle Crash Using Interactive Map and Data Dashboard. Indonesian Journal of Electrical Engineering and Computer Science, 14 (3) June, p. 1405. Available from: <http://dx.doi.org/10.11591/ijeecs.v14.i3.pp1405-1411>.
+Abela, A. (2006). Choosing a good chart. The Extreme Presentation Method, 6.
+Adler, M. W., Ommeren, J. van & Rietveld, P. (2013) Road Congestion and Incident Duration. Economics of Transportation [Online], 2 (4) December, pp. 109–118.
+Available from: <http://dx.doi.org/10.1016/j.ecotra.2013.12.003>.
+
+Asare, I. O. & Mensah, A. C. (2020) Crash Severity Modelling Using Ordinal Logistic Regression Approach. International Journal of Injury Control and Safety Promotion, 27 (4) July, pp. 412–419. 
+Available from: <http://dx.doi.org/10.1080/17457300.2020.1790615>.
+
+Ariannezhad, A. & Wu, Y.-J. (2018) Effects of Heavy Rainfall in Different Light Conditions on Crash Severity during Arizona’s Monsoon Season. Journal of Transportation Safety & Security, 11 (6) April, pp. 579–594. 
+Available from: <http://dx.doi.org/10.1080/19439962.2018.1454561>.
+
+Bachechi, C., Po, L. & Rollo, F. (2022) Big Data Analytics and Visualization in Traffic Monitoring. Big Data Research [Online], 27 February, p. 100292.
+Available from: <http://dx.doi.org/10.1016/j.bdr.2021.100292>.
+
+Bellis, E. de, Schulte-Mecklenbeck, M., Brucks, W., Herrmann, A. & Hertwig, R. (2018) Blind Haste: As Light Decreases, Speeding Increases. PLOS ONE, 13 (1) January, p. e0188951. 
+Available from: <http://dx.doi.org/10.1371/journal.pone.0188951>.
+
+Chan, T. C., Pai, C. W., Wu, C. C., Hsu, J., Chen, R. J., Chiu, W. T., & Lam, C. (2022, June 17). Association of Air Pollution and Weather Factors with Traffic Injury Severity: A Study in Taiwan. International Journal of Environmental Research and Public Health, 19(12), 7442. 
+Available from:  <https://doi.org/10.3390/ijerph19127442>
+
+Chen, P.-L. & Pai, C.-W. (2019) Evaluation of Injuries Sustained by Motorcyclists in Approach-Turn Crashes in Taiwan. Accident Analysis & Prevention, 124 March, pp. 33–39. 
+Available from: <http://dx.doi.org/10.1016/j.aap.2018.12.015>.
+
+Daily Air Quality Index - Defra, UK (n.d.) Daily Air Quality Index - Defra, UK [Online]. Daily Air Quality Index - Defra, UK. 
+Available from: <https://uk-air.defra.gov.uk/air-pollution/daqi>.
+
+Edwards, J. B. (1998) The Relationship Between Road Accident Severity and Recorded Weather. Journal of Safety Research, 29 (4) December, pp. 249–262. 
+Available from: <http://dx.doi.org/10.1016/s0022-4375(98)00051-6>.
+
+Ehsaei, A., & Sarvi, M. (2011). Temporal variation of road accident data caused by infrastructure. In Proceedings of the Road Safety and Simulation International Conference (pp. 1-10) 
+Available from: <https://onlinepubs.trb.org/onlinepubs/conferences/2011/RSS/2/Ehsaei,A.pdf>.
+
+Fayyad, U., Piatetsky-Shapiro, G. & Smyth, P. (1996) The KDD Process for Extracting Useful Knowledge from Volumes of Data. Communications of the ACM , 39 (11) November, pp. 27–34. 
+Available from: <http://dx.doi.org/10.1145/240455.240464>.
+
+Fylan, F., Hughes, A., Wood, J. M. & Elliott, D. B. (2018) Why Do People Drive When They Can’t See Clearly? Transportation Research Part F: Traffic Psychology and Behaviour, 56 July, pp. 123–133. 
+Available from: <http://dx.doi.org/10.1016/j.trf.2018.04.005>.
+
+Fountas, G., Fonzone, A., Gharavi, N. & Rye, T. (2020) The Joint Effect of Weather and Lighting Conditions on Injury Severities of Single-Vehicle Accidents. Analytic Methods in Accident Research, 27 September, p. 100124. 
+Available from: <http://dx.doi.org/10.1016/j.amar.2020.100124>.
+
+Ghosh, S., & Kumar, S. (2015). Data pre-processing in traffic accident analysis: A survey of the literature. World Journal of Science, Technology and Engineering, 3(2), 200-208.
+GOV.UK (2023) Guidance on Road Classification and the Primary Route Network [Online]. GOV.UK. Available from: <https://www.gov.uk/government/publications/guidance-on-road-classification-and-the-primary-route-network/guidance-on-road-classification-and-the-primary-route-network>.
+GOV.UK (2024) Emissions of Air Pollutants in the UK – Sulphur Dioxide (SO2) [Online]. GOV.UK. Available from: <https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-sulphur-dioxide-so2> [Accessed: May 1, 2024].
+
+Hair, J. F., Anderson, R. E., Babin, B. J., & Black, W. C. (2010). Multivariate data analysis: A global perspective. Pearson Education.
+
+Haynes, S., Estin, P. C., Lazarevski, S., Soosay, M. & Kor, A.-L. (2019) Data Analytics: Factors of Traffic Accidents in the UK. 2019 10th International Conference on Dependable Systems, Services and Technologies (DESSERT), June. 
+Available from: <http://dx.doi.org/10.1109/dessert.2019.8770021>.
+
+Huang, H., Song, Y., Xu, C., & Liu, Z. (2018). A random forest-based model for traffic accident severity prediction on expressways. Sustainability, 10(10), 3479.
+
+Iranitalab, A. & Khattak, A. (2017) Comparison of Four Statistical and Machine Learning Methods for Crash Severity Prediction. Accident Analysis & Prevention, 108 November, pp. 27–36. 
+Available from: <http://dx.doi.org/10.1016/j.aap.2017.08.008>.
+
+Jägerbrand, A. K. & Sjöbergh, J. (2016) Effects of Weather Conditions, Light Conditions, and Road Lighting on Vehicle Speed. SpringerPlus, 5 (1) April. By James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112). Springer.
+Available from: <http://dx.doi.org/10.1186/s40064-016-2124-6>.
+
+Jensupakarn, A. & Kanitpong, K. (2018) Influences of Motorcycle Rider and Driver Characteristics and Road Environment on Red Light Running Behavior at Signalized Intersections. Accident Analysis & Prevention, 113 April, pp. 317–324. 
+Available from: <http://dx.doi.org/10.1016/j.aap.2018.02.007>.
+
+Jones, A. P., Haynes, R., Kennedy, V., Harvey, I. M., Jewell, T. & Lea, D. (2008) Geographical Variations in Mortality and Morbidity from Road Traffic Accidents in England and Wales. Health & Place, 14 (3) September, pp. 519–535. 
+Available from: <http://dx.doi.org/10.1016/j.healthplace.2007.10.001>.
+
+Joos, K. (2022) SMOTE | Towards Data Science [Online]. Medium. 
+Available from: <https://towardsdatascience.com/smote-fdce2f605729#:~:text=The%20result%20of%20using%20SMOTE,them%20wrong%20(decreasing%20precision).>.
+
+Kaggle (2023) UK DEFRA AURN Air Quality Data 2015-2023 [Online]. Kaggle. 
+Available from: <https://www.kaggle.com/datasets/airqualityanthony/uk-defra-aurn-air-quality-data-2015-2023> [Accessed: February 3, 2024].
+
+Lam, C., Pai, C.-W., Chuang, C.-C., Yen, Y.-C., Wu, C.-C., Yu, S.-H., Hung, K.-S. & Chiu, W.-T. (2019) Rider Factors Associated with Severe Injury after a Light Motorcycle Crash: A Multicentre Study in an Emerging Economy Setting. PLOS ONE, 14 (6) June, p. e0219132. 
+Available from: <http://dx.doi.org/10.1371/journal.pone.0219132>.
+
+Lim, S. Z. (2024) Mastering Exploratory Data Analysis (EDA): Everything You Need To Know [Online]. Medium. 
+Available from: <https://medium.com/data-and-beyond/mastering-exploratory-data-analysis-eda-everything-you-need-to-know-7e3b48d63a95> [Accessed: March 13, 2024].
+
+Liu, X., Li, K. & Xu, H. (2022) Analysis and Visualization of Accidents Severity Based on Lightgbm-Tpe. SSRN Electronic Journal. 
+Available from: <http://dx.doi.org/10.2139/ssrn.4024035>.
+
+Liu, Z., Chen, Y., Xia, F., Bian, J., Zhu, B., Shen, G. & Kong, X. (2023) TAP: Traffic Accident Profiling via Multi-Task Spatio-Temporal Graph Representation Learning. ACM Transactions on Knowledge Discovery from Data, 17 (4) February, pp. 1–25.
+Available from: <http://dx.doi.org/10.1145/3564594>.
+
+Martínez-Plumed, F., Contreras-Ochando, L., Ferri, C., Flach, P., Hernández-Orallo, J., Kull, M.,  & Ramírez-Quintana, M. J. (2017). CASP-DM: context aware standard process for data mining. arXiv preprint arXiv:1709.09003.
+Available from: <https://arxiv.org/abs/1709.09003>.
+
+Milton, J. C., Shankar, V. N. & Mannering, F. L. (2008) Highway Accident Severities and the Mixed Logit Model: An Exploratory Empirical Analysis. Accident Analysis & Prevention, 40 (1) January, pp. 260–266. 
+Available from: <http://dx.doi.org/10.1016/j.aap.2007.06.006>.
+
+Pandey, A. K., Iqbal, R., Maniak, T., Karyotis, C., Akuma, S. & Palade, V. (2022) Convolution Neural Networks for Pothole Detection of Critical Road Infrastructure. Computers and Electrical Engineering, 99 April, p. 107725. 
+Available from: <http://dx.doi.org/10.1016/j.compeleceng.2022.107725>.
+
+Nordhausen, K. (2014) An Introduction to Statistical Learning—with Applications in R by Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani. International Statistical Review, 82 (1) April, pp. 156–157. 
+Available from: <http://dx.doi.org/10.1111/insr.12051_19>.
+
+Papadimitriou, E., Filtness, A., Theofilatos, A., Ziakopoulos, A., Quigley, C. & Yannis, G. (2019) Review and Ranking of Crash Risk Factors Related to the Road Infrastructure. Accident Analysis & Prevention, 125 April, pp. 85–97. 
+Available from: <http://dx.doi.org/10.1016/j.aap.2019.01.002>.
+
+Plainis, S. & Murray, I. J. (2002) Reaction Times as an Index of Visual Conspicuity When Driving at Night. Ophthalmic and Physiological Optics, 22 (5) September, pp. 409–415. 
+Available from: <http://dx.doi.org/10.1046/j.1475-1313.2002.00076.x>.
+
+Plotnikova, V., Dumas, M. & Milani, F. (2020) Adaptations of Data Mining Methodologies: A Systematic Literature Review. PeerJ Computer Science, 6 May, p. e267. 
+Available from: <http://dx.doi.org/10.7717/peerj-cs.267>.
+
+Plug, C., Xia, J. (Cecilia) & Caulfield, C. (2011) Spatial and Temporal Visualisation Techniques for Crash Analysis. Accident Analysis & Prevention, 43 (6) November, pp. 1937–1946.
+Available from: <http://dx.doi.org/10.1016/j.aap.2011.05.007>.
+
+Ramos, L., Silva, L., Santos, M. Y. & Pires, J. M. (2015) Detection of Road Accident Accumulation Zones with a Visual Analytics Approach. Procedia Computer Science, 64, pp. 969–976. 
+Available from: <http://dx.doi.org/10.1016/j.procs.2015.08.615>.
+
+Road Safety Data - Data.Gov.Uk (2023) [Online]. 
+Available from: <https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data> [Accessed: February 6, 2024].
+
+Road safety (2023) Road Safety [Online]. Road safety. 
+Available from: <https://www.who.int/health-topics/road-safety#tab=tab_1>  [Accessed: January 25 , 2024]
+
+Sager, L. (2019) Estimating the Effect of Air Pollution on Road Safety Using Atmospheric Temperature Inversions. Journal of Environmental Economics and Management, 98 November, p. 102250.
+Available from: <http://dx.doi.org/10.1016/j.jeem.2019.102250>.
+
+Sakib, A., Ismail, S. A., Sarkan, H., Azmi, A. & Mohd Yusop, O. (2018) Analyzing Traffic Accident and Casualty Trend Using Data Visualization. Advances in Intelligent Systems and Computing, September, pp. 84–94. 
+Available from: <http://dx.doi.org/10.1007/978-3-319-99007-1_9>.
+
+Stockman, J. A. (2008) Long-Term Exposure to Air Pollution and Incidence of Cardiovascular Events in Women. Yearbook of Pediatrics, 2008 January, pp. 483–485. 
+Available from: <http://dx.doi.org/10.1016/s0084-3954(08)70539-6>.
+
+
+Tabachnick, B. G., & Fidell, L. S. (2013). Using multivariate statistics. Pearson Education Limited.
+
+Wang, Y., Quddus, M., & Ison, S. G. (2019). The impact of built environment, weather conditions, and driver behavior on the severity of light vehicle crashes in winter. Accident Analysis & Prevention, 129, 149-159.
+
+Wiratama, B. S., Chen, P.-L., Ma, S.-T., Chen, Y.-H., Saleh, W., Lin, H.-A. & Pai, C.-W. (2020) Evaluating the Combined Effect of Alcohol-Involved and Un-Helmeted Riding on Motorcyclist Fatalities in Taiwan. Accident Analysis & Prevention, 143 August, p. 105594. 
+Available from: <http://dx.doi.org/10.1016/j.aap.2020.105594>.
+
+Wei, F., Cai, Z., Liu, P., Guo, Y., Li, X. & Li, Q. (2021) Exploring Driver Injury Severity in Single-Vehicle Crashes under Foggy Weather and Clear Weather. Journal of Advanced Transportation, 2021 August, pp. 1–12. 
+Available from: <http://dx.doi.org/10.1155/2021/9939800>.
+
+Wu, Y., Liu, Y., Wang, Y., Wang, J., & Li, S. (2020). Exploring the spatial distribution and influencing factors of traffic accidents: A case study of Beijing, China. Sustainability, 12(1), 202.
+
+Xie, X., Semanjski, I., Gautama, S., Tsiligianni, E., Deligiannis, N., Rajan, R., Pasveer, F. & Philips, W. (2017) A Review of Urban Air Pollution Monitoring and Exposure Assessment Methods. ISPRS International Journal of Geo-Information, 6 (12) December, p. 389.
+Available from: <http://dx.doi.org/10.3390/ijgi6120389>.
+
