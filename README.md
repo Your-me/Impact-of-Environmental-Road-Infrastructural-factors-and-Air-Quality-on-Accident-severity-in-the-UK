@@ -49,9 +49,9 @@ Unit increase in Sulphur dioxide could increase accident severity by 0.75%
 
 
 # RECOMMENDATION
-Enforce stronger emissions standards and air quality laws to lower pollution levels of sulphur dioxide and enhance air quality in metropolitan areas, especially area with high traffic congestions and encouragement of electric cars adoption.
-Modifications of existing T-junctions to other type of junctions.
-Deployment of more authorized personnel to control junction traffic.
+- Enforce stronger emissions standards and air quality laws to lower pollution levels of sulphur dioxide and enhance air quality in metropolitan areas, especially area with high traffic congestions and encouragement of electric cars adoption.
+- Modifications of existing T-junctions to other type of junctions.
+- Deployment of more authorized personnel to control junction traffic.
 
 # CONCLUSION
 In conclusion, this study has provided a detailed analysis of impact of environmental, road infrastructural and air quality (pollutants) on accident severity. Using statistical analysis (where the null hypothesis was rejected for all the models), visualization with tableau and a comprehensive review of previous literature, the study has been able to point out the negative effect of sulphur dioxide, poor lighting condition in the darkness, and other road infrastructure like not having an authorized person at a junction, T-junction menace, class B first road type on accident severity and shows they contribute significantly to increase in accident at all severity level. It also went further to look into the age group with less likelihood of having accident (25-35) and the gender by that is less likely to get involved in accident (female).
